@@ -1,0 +1,18 @@
+{
+  "name": "sea-vortex-v14-alt-yapi",
+  "version": "1.0.0",
+  "description": "V14-Bos-Alt-Yapi",
+  "main": "isterdimimiklerimioynatabilmek.js",
+  "scripts": {
+    "test": "node sisterdimimiklerimioynatabilmek.js"
+  },
+  "author": "Sea Vortex",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.5.4"
+  }
+}
